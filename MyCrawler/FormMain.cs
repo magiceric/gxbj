@@ -17,6 +17,8 @@ namespace MyCrawler
     public partial class FormMain : Form
     {
 
+        //timestamp:20141211!
+
         private string sUrlHomepage = "";
         private string sUrlUserPage = "";
         private string sHref = "";
